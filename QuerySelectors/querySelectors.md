@@ -72,3 +72,9 @@ Attaches the `checkGuess()` function to the submit button, so it runs when the p
 
 - The code attaches event listeners to DOM elements to respond to user interactions.
 - For example, `guessSubmit.addEventListener('click', checkGuess);` listens for clicks on the submit button and calls the `checkGuess()` function when clicked.
+
+
+
+
+I have taken this code from devloper Mozilla. It has really good explaination. 
+[Reference](URL)
